@@ -21,3 +21,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 In my first milestone, I connected the Raspberry Pi 4 to the Arduino Uno. I also connected the Arduino Uno to five different servos. These servos will pull strings that will move the fingers for my robotic arm. I have also 3D printed out three fingers to test out my code. These are just prototypes and will not be used in the final model. I wrote a program that detects a mouth. After detecting the mouth, using serial communication, the Raspberry Pi sends a letter through the serial. The Arduino then reads that letter and runs the corresponding function. In this case, it was 'grab'.
 
 [![Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1656623667/video_to_markdown/images/youtube--zVmatq3qhfY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=zVmatq3qhfY "Milestone 1")
+
+# Schematics
+
+
