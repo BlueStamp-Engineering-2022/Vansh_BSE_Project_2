@@ -24,4 +24,4 @@ In my first milestone, I connected the Raspberry Pi 4 to the Arduino Uno. I also
 
 # Schematics
 
-
+![Schematics](https://user-images.githubusercontent.com/86122440/180564448-e06273e2-6347-4008-9fa0-9255926a1b74.png)
