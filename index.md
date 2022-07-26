@@ -1,9 +1,9 @@
-﻿# Voice Controlled Robotic Arm
+# Voice Controlled Robotic Arm
 Ever needed an extra hand to do something? Or maybe you are bored and you just want to play a game with someone. Well I have made a voice controlled robotic arm, an arm that can do many things including playing rock-paper-scissors and many hand signals.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Vansh Vansh | Amador Valley Highschool | Computer Science/Robotics| Incoming Sophomore
+| Vansh Chhabra | Amador Valley High School | Computer Science/Robotics| Incoming Sophomore
 
 ![IMG_5768](https://user-images.githubusercontent.com/86122440/180925402-b2da124a-c230-4eb0-b996-bd714c613d9e.png)
   
