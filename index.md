@@ -22,6 +22,6 @@ In my first milestone, I connected the Raspberry Pi 4 to the Arduino Uno. I also
 
 [![Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1656623667/video_to_markdown/images/youtube--zVmatq3qhfY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=zVmatq3qhfY "Milestone 1")
 
-# Schematics
+# Schematics 
 
 ![Schematics](https://user-images.githubusercontent.com/86122440/180564448-e06273e2-6347-4008-9fa0-9255926a1b74.png)
