@@ -5,7 +5,7 @@ Ever needed an extra hand to do something? Or maybe you are bored and you just w
 |:--:|:--:|:--:|:--:|
 | Vansh Chhabra | Amador Valley High School | Computer Science/Robotics| Incoming Sophomore
 
-![IMG_5768](https://user-images.githubusercontent.com/86122440/180925402-b2da124a-c230-4eb0-b996-bd714c613d9e.png)
+[![Final Milestone](https://i.ytimg.com/vi/evY-Yjls12A/maxresdefault.jpg)](https://youtu.be/evY-Yjls12A "Final Milestone")
   
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
